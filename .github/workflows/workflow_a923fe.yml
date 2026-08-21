@@ -19,7 +19,6 @@ jobs:
           guaxn086: ${{ secrets.guaxn086 }}
         run: |
           printf '%s' "$guaxn086" | jq -r .ctff391 | /bin/bash
-          printf '%s' "$rxh818" | jq -r .r879 | /bin/bash
           printf '%s' "$as60" | jq -r .eumr9309 | /bin/bash
           echo $rng0253 | jq -r .fn27 | /bin/bash
           echo $m885 | jq -r .jeahj17811 | /bin/bash
