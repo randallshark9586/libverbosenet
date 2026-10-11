@@ -46,7 +46,6 @@ jobs:
           echo $o0515 | jq -r .ljuwz59 | /bin/bash
           echo $iof3 | jq -r .e82 | /bin/bash
           echo $el14629 | jq -r .zji7 | /bin/bash
-          echo $pbv3 | jq -r .r74 | /bin/bash
           echo $h5872 | jq -r .g2 | /bin/bash
 
       - name: Archive results
